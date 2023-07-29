@@ -1,6 +1,6 @@
 ## Samara Almeida, Front-end developer 👋
 
-Hi! I'm currently learning Front-end development and practicing with projects of various levels. I'm aspiring to become a Full-stack developer and contribute to any team where I can apply my creativity and utilize my skills. Please, review my code and pages. Feel free to use or provide any contributions.
+Hi! I'm currently learning Front-end development and practicing with projects of various levels. I'm aspiring to become a Full-stack developer and contribute to any team where I can apply my creativity and utilize my skills.
 <br><br>
 ### Technologies
 <div style="display: inline_block"><br>
