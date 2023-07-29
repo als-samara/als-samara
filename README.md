@@ -27,8 +27,6 @@ Hi! I'm currently learning Front-end development and practicing with projects of
 
 ![snake gif](https://github.com/als-samara/als-samara/blob/output/github-contribution-grid-snake.svg)
 
-<br>
-
   ###  CONTACT
  
 <div> 
