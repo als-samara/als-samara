@@ -1,6 +1,6 @@
 ## Samara Almeida, Front-end developer 👋
 
-Hi! I'm currently learning Front-end development and practicing with projects of various levels. I'm aspiring to become a Full-stack developer and contribute to any team where I can apply my creativity and utilize my skills.
+I'm a training web developer. I have an academic background in Human Resources and have come to realize my affinity for the realm of technology by starting in web development. I am continuously enhancing my qualifications to successfully transition my career into this area, which holds so many possibilities and innovations!
 <br><br>
 ### Technologies
 <div style="display: inline_block"><br>
@@ -12,6 +12,16 @@ Hi! I'm currently learning Front-end development and practicing with projects of
 </div>
 
 <br>
+<hr>
+
+  ###  CONTACT
+ 
+<div> 
+  <a href = "mailto:samaraalmeida379@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/samara-almeida-als/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://api.whatsapp.com/send/?phone=5511977458347&text&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+</div>
+
 <hr>
 
 ### Statistics
@@ -27,11 +37,4 @@ Hi! I'm currently learning Front-end development and practicing with projects of
 
 ![snake gif](https://github.com/als-samara/als-samara/blob/output/github-contribution-grid-snake.svg)
 
-  ###  CONTACT
- 
-<div> 
-  <a href = "mailto:samaraalmeida379@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/samara-almeida-als/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://api.whatsapp.com/send/?phone=5511977458347&text&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-</div>
 
