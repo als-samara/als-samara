@@ -1,4 +1,4 @@
-## Samara Almeida, Front-end developer 👋
+## Samara Almeida, Full-stack developer 👋
 
 I'm a training web developer. I have an academic background in Human Resources and have come to realize my affinity for the realm of technology by starting in web development. I am continuously enhancing my qualifications to successfully transition my career into this area, which holds so many possibilities and innovations!
 <br><br>
