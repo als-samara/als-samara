@@ -1,4 +1,4 @@
-## Hello, I'm Samara Almeida, a Java Full-Stack developer passionate about innovation!
+## Hello, I'm Samara Almeida, Full-Stack developer passionate about innovation!
 
 With a background in Human Resources and strong communication and teamwork skills developed in the Customer Experience field, I've always had an affinity for logic. I decided to explore my potential in the tech industry by transitioning my career towards web development.
 
