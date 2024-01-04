@@ -30,22 +30,13 @@
 </div>
 
 <br>
-<hr>
-<br>
-
-### Contribution graph
-
-![snake gif](https://github.com/als-samara/als-samara/blob/output/github-contribution-grid-snake.svg)
-
-<hr>
-<br>
 
 ###  👩‍💻 Contact
- 
-<div> 
-  <a href = "mailto:samaraalmeida379@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/samara-almeida-als/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://api.whatsapp.com/send/?phone=5511977458347&text&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-</div>
+
+[![Me envie um e-mail](https://img.shields.io/badge/Email-samaraalmeida379@gmail.com-red)](mailto:samaraalmeida379@gmail.com)
+
+[![WhatsApp](https://img.shields.io/badge/LinkedIn-Me_envie_um_pedido_de_conexão!-blue)](https://www.linkedin.com/in/samara-almeida-als/)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Me_envie_uma_mensagem!-green)](https://api.whatsapp.com/send/?phone=5511977458347&text&type=phone_number&app_absent=0)
 
 
