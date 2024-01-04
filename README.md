@@ -1,8 +1,6 @@
 ## Hello, I'm Samara Almeida, Full-Stack developer passionate about innovation!
 
-With a background in Human Resources and strong communication and teamwork skills developed in the Customer Experience field, I've always had an affinity for logic. I decided to explore my potential in the tech industry by transitioning my career towards web development.
-
-I have knowledge in Database, Java, HTTP, JavaScript, Front-end styling tools, and I'm currently learning various other technical skills. I'm also engaged in developing projects within the Generation Brasil Junior Full-Stack Development bootcamp, an intensive 500-hour program providing hands-on experience in an agile software development team.<br><br>
+Always learning and engaged in developing personal projects and within the Generation Brasil Junior Full-Stack Development bootcamp ✨<br><br>
 ### Technologies
 <div style="display: inline_block"><br>
 
