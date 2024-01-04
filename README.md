@@ -1,6 +1,10 @@
 ## Hello, I'm Samara Almeida, Full-Stack developer passionate about innovation!
+<br>
+✍️ Always learning
+<br><br>
+🚀 Engaged in developing personal projects and within the Generation Brasil Junior Full-Stack Development bootcamp ✨<br><br>
+<br>
 
-Always learning and engaged in developing personal projects and within the Generation Brasil Junior Full-Stack Development bootcamp ✨<br><br>
 ### Technologies
 <div style="display: inline_block"><br>
 
@@ -16,17 +20,7 @@ Always learning and engaged in developing personal projects and within the Gener
 </div>
 
 <br>
-<hr>
-
-  ###  CONTACT
- 
-<div> 
-  <a href = "mailto:samaraalmeida379@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/samara-almeida-als/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://api.whatsapp.com/send/?phone=5511977458347&text&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-</div>
-
-<hr>
+<br>
 
 ### Statistics
 <div>
@@ -36,9 +30,22 @@ Always learning and engaged in developing personal projects and within the Gener
 </div>
 
 <br>
+<hr>
+<br>
 
 ### Contribution graph
 
 ![snake gif](https://github.com/als-samara/als-samara/blob/output/github-contribution-grid-snake.svg)
+
+<hr>
+<br>
+
+###  👩‍💻 Contact
+ 
+<div> 
+  <a href = "mailto:samaraalmeida379@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/samara-almeida-als/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://api.whatsapp.com/send/?phone=5511977458347&text&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+</div>
 
 
