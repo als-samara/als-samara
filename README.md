@@ -35,7 +35,7 @@
 
 [![Me envie um e-mail](https://img.shields.io/badge/Email-samaraalmeida379@gmail.com-red)](mailto:samaraalmeida379@gmail.com)
 
-[![WhatsApp](https://img.shields.io/badge/LinkedIn-Me_envie_um_pedido_de_conexão!-blue)](https://www.linkedin.com/in/samara-almeida-als/)
+[![WhatsApp](https://img.shields.io/badge/LinkedIn-Envie_um_pedido_de_conexão-blue)](https://www.linkedin.com/in/samara-almeida-als/)
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Me_envie_uma_mensagem!-green)](https://api.whatsapp.com/send/?phone=5511977458347&text&type=phone_number&app_absent=0)
 
