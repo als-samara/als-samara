@@ -7,12 +7,8 @@
  ✨ Focused on Back-End development, Data Science and IA.
 <br><br><br>
 
-<div style="border: solid 2px #E5B323; display: flex; align-itens: center; justify-content: center; max-width: 700px; padding: 20px">
-
 <div>
   <img src="assets/Witch-cat.png" width="400px" height="100%" alt="Cute cat witch"/>
-</div>
-
 </div>
 
 <br><br>
