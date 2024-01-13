@@ -7,6 +7,25 @@
  ✨ Focused on Back-End development, Data Science and IA.
 <br><br><br>
 
+<div style="border: solid 2px #E5B323; display: flex; align-itens: center; justify-content: center; max-width: 700px; padding: 20px">
+
+<div>
+  <img src="assets/witch-cat.png" width="400px" height="100%" alt="Cute cat witch"/>
+</div>
+
+<div style="height: 338px; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center;">
+  <h4>Download my CV and discover more about this curious developer
+  </h4>
+  <button style="background-color: lightgrey; padding: 8px; border: 2px solid grey; border-radius: 20px; width: 50%">
+    <a href="assets/CV Samara Almeida - en.pdf" style="color: black; text-decoration: none">CV AQUI
+    </a>
+  </button>
+</div>
+
+</div>
+
+<br><br>
+
 ### Technologies
 <div style="display: inline_block"><br>
 
