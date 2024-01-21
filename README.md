@@ -1,33 +1,30 @@
 # Passionate Developer, nice to meet you 👋
 <br>
-<hr>
   <h3>About me</h2>
-<table  cellspacing="0" cellpadding="0">
+<table border="4" cellspacing="0" cellpadding="0">
 <tr>
-  <td style="padding: 10px;" width="50%">
+  <td style="border: 0" width="50%">
+    <div>
+      <br>
+    <a href="https://github.com/als-samara">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=als-samara&layout=compact&langs_count=6&theme=monokai"/ width="100%"></a>
+    </div>
+          <br>
+  </td>
+  
+  <td style="border: 0;">
       ✍️ Always learning
       <br><br>
       🚀 Engaged in developing personal projects
       <br><br>
        ✨ Focused on Back-End development, Data Science and IA.<br><br>
-
-  <a href="./assets/CV Samara Almeida - en.pdf">
-    <button style="background-color: #7f7b75; border: 2px solid #7f7b75; color: black; border-radius: 20px; padding: 5px 10px">
-         Download my CV 👩‍💻
-    </button>
-  </a>
+    
+  [![Currículo](https://img.shields.io/badge/Download%20my%20CV-EB1F6A)](https://lateral-vertebra-96f.notion.site/Samara-Almeida-Silva-f31239c68f274e828310c68a62f65a31?pvs=25)
   </td>
-
-  <td style="padding: 10px;" width="50%">
-    <div>
-    <a href="https://github.com/als-samara">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=als-samara&layout=compact&langs_count=6&theme=monokai"/ width="100%"></a>
-    </div>
-    <td>
 </tr>
 </table>
 
-<hr><br>
+<br>
 
 ### Skills
 
@@ -59,10 +56,12 @@
 
 <br>
 
-<hr><br>
-
 ### Contact
+<a href="https://www.linkedin.com/in/samara-almeida-als/" alt="LinkedIn">
+  <img src="https://ik.imagekit.io/ghc9vhgb1/linkedin.png?updatedAt=1705814279129" width="48px"/>
+</a> &nbsp
 
-[![LinkedIn](https://img.shields.io/badge/💼-LinkedIn-blue)](https://www.linkedin.com/in/samara-almeida-als/)  [![Me envie um e-mail](https://img.shields.io/badge/✉️-Email-red)](mailto:samaraalmeida379@gmail.com)  [![WhatsApp](https://img.shields.io/badge/🤳-WhatsApp-green)](https://api.whatsapp.com/send/?phone=5511977458347&text&type=phone_number&app_absent=0)
-
+<a href="mailto:samaraalmeida379@gmail.com" alt="Gmail">
+  <img src="https://ik.imagekit.io/ghc9vhgb1/email%20(1).png?updatedAt=1705814903968" width="48px"/>
+</a><br>
 
