@@ -20,6 +20,7 @@
        ✨ Focused on Back-End development, Data Science and IA.<br><br>
     
   [![Currículo](https://img.shields.io/badge/Download%20my%20CV-EB1F6A)](https://lateral-vertebra-96f.notion.site/Samara-Almeida-Silva-f31239c68f274e828310c68a62f65a31?pvs=25)
+   [![LinkedIn](https://img.shields.io/badge/Contact-LinkedIn-0A66C2)](https://www.linkedin.com/in/samara-almeida-als/) [![Email](https://img.shields.io/badge/Contact-Email-EA4335)](mailto:samaraalmeida379@gmail.com)
   </td>
 </tr>
 </table>
@@ -37,8 +38,8 @@
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
 #### Frameworks
-
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 #### Database
@@ -51,17 +52,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-#### Tests
+#### Tools | Tests
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
-
-<br>
-
-### Contact
-<a href="https://www.linkedin.com/in/samara-almeida-als/" alt="LinkedIn">
-  <img src="https://ik.imagekit.io/ghc9vhgb1/linkedin.png?updatedAt=1705814279129" width="48px"/>
-</a> &nbsp
-
-<a href="mailto:samaraalmeida379@gmail.com" alt="Gmail">
-  <img src="https://ik.imagekit.io/ghc9vhgb1/email%20(1).png?updatedAt=1705814903968" width="48px"/>
-</a><br>
 
