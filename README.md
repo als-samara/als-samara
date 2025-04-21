@@ -12,7 +12,7 @@ def construct_myself():
     myself = {
         "name": "Samara",
         "role": "Backend Developer",
-        "stack": ["Python", "SQL", "C#", "Docker", "Azure", "Genesys Architecht"],
+        "stack": ["Python", "SQL", "Java", "Docker", "Azure", "Genesys Architecht"],
         "current_focus": [
             "Me desenvolver em todo o ciclo de desenvolvimento de software e arquitetura de sistemas"
         ],
